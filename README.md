@@ -13,3 +13,4 @@ My interests include;<br>
 💡 Game development<br>
 💡 Game tool development<br>
 
+Fun Fact: The art work you see displayed was created using Stable Diffusion's 1.5 AI
